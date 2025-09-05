@@ -69,3 +69,32 @@ npm install
 # Navigate to frontend and install dependencies
 cd frontend
 npm install
+
+🚀 Usage
+# Start backend (from root directory)
+npm start
+
+# Start frontend (in another terminal, inside frontend folder)
+npm run dev
+
+
+Then open http://localhost:3000
+ in your browser to access the CyberScan dashboard.
+
+🙌 Contributing
+
+Contributions are welcome!
+
+Fork the repository
+
+Create a new branch (git checkout -b feature/YourFeature)
+
+Make your changes
+
+Commit (git commit -m "Add feature")
+
+Push (git push origin feature/YourFeature)
+
+Open a Pull Request
+
+Please check the CONTRIBUTING.md for guidelines.
